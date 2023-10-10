@@ -1,0 +1,16 @@
+---
+accounts:
+  - name: Account 1
+    sid: ACyour_sid_here
+    api_key: SKyour_key_id
+    api_secret: your_api_secret
+  - name: Account 2
+    sid: ACyour_sid_here
+    api_key: SKyour_key_id
+    api_secret: your_api_secret
+
+exporter:
+  interval: 600
+  port: 9130
+
+...
